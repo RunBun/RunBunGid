@@ -1,4 +1,4 @@
-from Question import Question
+from question import Question
 question_prompts = [
     "Какая компания продает больше всего игрушек в мире?\n(a) TaDa\n(b) Na-Na\n(c) McDonald's\n\n",
     "Почему белые медведи не едят пингвинов?\n(a) Они живут в разных полушариях\n(b) Они друзья\n(c) Пингвины вредны для их здоровья\n\n",
